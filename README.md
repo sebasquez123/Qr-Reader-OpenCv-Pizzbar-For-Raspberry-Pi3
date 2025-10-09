@@ -1,4 +1,5 @@
 
+<img width="317" height="229" alt="Captura de pantalla 2025-10-09 001534" src="https://github.com/user-attachments/assets/68f4ce48-3346-4e9b-94c3-5fbd7847c92d" />
 
 
 # Qr-Reader-OpenCv-Pizzbar-For-Raspberry-Pi-3
