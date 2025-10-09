@@ -1,6 +1,6 @@
 
-<img width="317" height="229" alt="Captura de pantalla 2025-10-09 001534" src="https://github.com/user-attachments/assets/68f4ce48-3346-4e9b-94c3-5fbd7847c92d" />
 
+<img width="517" height="400" alt="Captura de pantalla 2025-10-09 001534" src="https://github.com/user-attachments/assets/68f4ce48-3346-4e9b-94c3-5fbd7847c92d" />
 
 # Qr-Reader-OpenCv-Pizzbar-For-Raspberry-Pi-3
 Short exercise for Qr catching and analysis by using Opencv and assertive guidelines to implement via Raspberry pi 3. this project is purelly introuceable to raspberry pi 3 and video-audio integration. User will be able to see the system working directly at the linux system or therefore, hearing from speaker.
