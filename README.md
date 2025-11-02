@@ -16,6 +16,40 @@ this project is emulating the more common sounds of WALL-E: the famous robot whi
 - Raspberry pi 3.
 - Python 3.
 
+
+
+## ⚙️  Setup & Installation
+
+### 1. Create a Python Virtual Environment (Recommended)
+
+On Windows (PowerShell):
+
+```powershell
+python -m venv venv
+.\venv\Scripts\activate
+```
+
+On Linux/macOS (bash):
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### 2. Install Project Dependencies
+
+With your virtual environment activated, run:
+
+```bash
+pip install opencv-python mediapipe scikit-learn aiortc aiohttp joblib
+```
+
+Or, if you have a `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## key commands and procedures for how to connect and run the project in raspberry pi 3.
 
 # Set raspberry SSH configuration
